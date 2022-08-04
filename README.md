@@ -13,7 +13,8 @@ Learned :
   - Porting to C++ and Object Oriented Programming features of C++
 
 ## Demo 
-> Yet to be added
+
+![Snapshot](/assets/ss.png)
 
 ## Usage
 - Compile using make
