@@ -390,7 +390,7 @@ void editorDrawRows(struct abuf *ab)
             {
                 char welcome[80];
                 int welcomelen = snprintf(welcome, sizeof(welcome),
-                                          "Kilo editor -- version %s", EDITOR_VERSION);
+                                          "Editor -- v%s", EDITOR_VERSION);
                 if (welcomelen > E.screencols)
                     welcomelen = E.screencols;
                 int padding = (E.screencols - welcomelen) / 2;
