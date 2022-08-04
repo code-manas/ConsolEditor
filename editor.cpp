@@ -1,7 +1,7 @@
 /**
  * @file editor.c
  * @author Manas
- * @brief A console based text editor in C
+ * @brief A console based text editor in C++
  * @version 0.1
  * @date 2022-08-04
  */
