@@ -27,9 +27,9 @@ $ ./editor
 
 ## Dev Updates Tracker
 > :construction_worker_man: DEVELOPMENTS AHEAD
-- [x] v0.1.3 - Input Output flags
-- [ ] v0.1.6 - Rendering current terminal instance
-- [ ] v0.1.9 - Input Output to a file
+- [x] v0.0.3 - Input Output flags
+- [x] v0.0.6 - Rendering current terminal instance
+- [x] v0.1.0 - Input Output to a file
 - [ ] v0.2.0 - Release
 
 ## Tech Stack 
